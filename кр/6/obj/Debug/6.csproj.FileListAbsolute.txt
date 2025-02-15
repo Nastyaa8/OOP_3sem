@@ -1,0 +1,7 @@
+C:\Users\Hasee\Desktop\Универ\3 семестр\OOP\кр\6\bin\Debug\6.exe.config
+C:\Users\Hasee\Desktop\Универ\3 семестр\OOP\кр\6\bin\Debug\6.exe
+C:\Users\Hasee\Desktop\Универ\3 семестр\OOP\кр\6\bin\Debug\6.pdb
+C:\Users\Hasee\Desktop\Универ\3 семестр\OOP\кр\6\obj\Debug\6.csproj.AssemblyReference.cache
+C:\Users\Hasee\Desktop\Универ\3 семестр\OOP\кр\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\Users\Hasee\Desktop\Универ\3 семестр\OOP\кр\6\obj\Debug\6.exe
+C:\Users\Hasee\Desktop\Универ\3 семестр\OOP\кр\6\obj\Debug\6.pdb
