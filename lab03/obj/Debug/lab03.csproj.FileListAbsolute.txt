@@ -1,0 +1,7 @@
+C:\Users\Hasee\Desktop\OOP\lab03\bin\Debug\lab03.exe.config
+C:\Users\Hasee\Desktop\OOP\lab03\bin\Debug\lab03.exe
+C:\Users\Hasee\Desktop\OOP\lab03\bin\Debug\lab03.pdb
+C:\Users\Hasee\Desktop\OOP\lab03\obj\Debug\lab03.csproj.AssemblyReference.cache
+C:\Users\Hasee\Desktop\OOP\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+C:\Users\Hasee\Desktop\OOP\lab03\obj\Debug\lab03.exe
+C:\Users\Hasee\Desktop\OOP\lab03\obj\Debug\lab03.pdb

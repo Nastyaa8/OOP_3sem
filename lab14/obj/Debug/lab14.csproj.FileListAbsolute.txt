@@ -1,0 +1,7 @@
+D:\Универ\3 семестр\OOP\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+D:\Универ\3 семестр\OOP\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+D:\Универ\3 семестр\OOP\lab14\bin\Debug\lab14.exe.config
+D:\Универ\3 семестр\OOP\lab14\bin\Debug\lab14.exe
+D:\Универ\3 семестр\OOP\lab14\bin\Debug\lab14.pdb
+D:\Универ\3 семестр\OOP\lab14\obj\Debug\lab14.exe
+D:\Универ\3 семестр\OOP\lab14\obj\Debug\lab14.pdb
