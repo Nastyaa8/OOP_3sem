@@ -1,0 +1,7 @@
+D:\Универ\3 семестр\OOP\lab_05\bin\Debug\lab_05.exe.config
+D:\Универ\3 семестр\OOP\lab_05\bin\Debug\lab_05.exe
+D:\Универ\3 семестр\OOP\lab_05\bin\Debug\lab_05.pdb
+D:\Универ\3 семестр\OOP\lab_05\obj\Debug\lab_05.csproj.AssemblyReference.cache
+D:\Универ\3 семестр\OOP\lab_05\obj\Debug\lab_05.csproj.CoreCompileInputs.cache
+D:\Универ\3 семестр\OOP\lab_05\obj\Debug\lab_05.exe
+D:\Универ\3 семестр\OOP\lab_05\obj\Debug\lab_05.pdb

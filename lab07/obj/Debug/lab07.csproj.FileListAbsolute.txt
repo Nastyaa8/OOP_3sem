@@ -1,0 +1,2 @@
+D:\Универ\3 семестр\OOP\lab07\obj\Debug\lab07.csproj.AssemblyReference.cache
+D:\Универ\3 семестр\OOP\lab07\obj\Debug\lab07.csproj.CoreCompileInputs.cache
