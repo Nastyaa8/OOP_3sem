@@ -1,0 +1,2 @@
+C:\Users\Hasee\Desktop\Универ\3 семестр\OOP\кр\11(3)\obj\Debug\11(3).csproj.AssemblyReference.cache
+C:\Users\Hasee\Desktop\Универ\3 семестр\OOP\кр\11(3)\obj\Debug\11(3).csproj.CoreCompileInputs.cache
